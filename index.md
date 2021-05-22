@@ -434,6 +434,7 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 * [Bitturk](https://bitturk.com/)
 * [Qtrade](https://qtrade.io)
 * [Wazirx](https://wazirx.com/)
+* [BitsBone](https://bitsbone.com/)  
 * [DragonEx](https://dragonex.io/)
 * [ProBit](https://www.probit.com/)
 * [Poinex](https://www.pionex.com/)
